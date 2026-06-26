@@ -6,14 +6,14 @@
 🧠 My work sits at the intersection of product, engineering, and operations — turning messy workflows into practical tools that help users and teams make better decisions.</br>
 🛠️ Currently working across React, Node.js, Python, SQL, BigQuery, Docker, Godot, and Rust.</br>
 
-<p align="left">
+<!-- <p align="left">
    <a href="https://github.com/SobczakL?tab=followers">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/lucqazdotcom?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/SobczakL?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucqazdotcom?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-</p>
+</p> -->
 
 ---
 
