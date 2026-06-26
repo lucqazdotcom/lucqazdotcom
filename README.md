@@ -8,10 +8,10 @@
 
 <p align="left">
    <a href="https://github.com/SobczakL?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/SobczakL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/lucqazdotcom?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/SobczakL?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SobczakL?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucqazdotcom?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 </p>
 
